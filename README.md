@@ -11,5 +11,5 @@
 - Main interests : travelling, discovering new cultures, dancing, astronomy.
 - What am I doing here ? Just curiosity and a strong wish to learn;)
 
-- Au revoir, goodbye, अलविदा, tschüss, ciao, さよなら!👋
+ Au revoir, goodbye, अलविदा, tschüss, ciao, さよなら!👋
 

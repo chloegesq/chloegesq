@@ -5,7 +5,6 @@
   <img src= "https://media.giphy.com/media/Uz4cDaGXPxeuY/giphy.gif" Width= "250"/>
 <div/>
 <br>
-- ✧☽ ☼
 
 - Hi nice to meet you, I'm Chloé !
 - Student in : foreign languages.

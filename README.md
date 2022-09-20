@@ -2,7 +2,7 @@
 
 <br>
 <div id="header" align="left">
-  <img src= "Gif/https://tenor.com/vZSr.gif" Width= "250"/>
+  <img src= "https://tenor.com/vZSr.gif" Width= "250"/>
 <div/>
 <br>
 - ✧☽ ☼

@@ -1,10 +1,11 @@
-### Hi there 👋
+### Hi there 
 
 <!--
 **chloegesq/chloegesq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 -->
+Gif/https://images.app.goo.gl/AQSCB9JfBnWxhjgx6
 - ✧☽ ☼
 - Hi nice to meet you, I'm Chloé !
 - Student in : foreign languages.

@@ -2,7 +2,12 @@
 
 <!--
 **chloegesq/chloegesq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<img src= "Gif/https://tenor.com/vZSr.gif" Width= "250"/>
+<br>
+<div id="header" align="left">
+  <img src= "Gif/https://tenor.com/vZSr.gif" Width= "250"/>
+<div/>
+
+<br>
 - ✧☽ ☼
 - Hi nice to meet you, I'm Chloé !
 - Student in : foreign languages.

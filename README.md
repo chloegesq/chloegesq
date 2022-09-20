@@ -6,10 +6,10 @@
 <div/>
 <br>
 
- Nice to meet you, I'm Chloé !
- Student in : foreign languages.
- Main interests : travelling, discovering new cultures, dancing, astronomy.
- What am I doing here ? Just curiosity and a strong wish to learn;)
+- Nice to meet you, I'm Chloé !
+- Student in : foreign languages.
+- Main interests : travelling, discovering new cultures, dancing, astronomy.
+- What am I doing here ? Just curiosity and a strong wish to learn;)
 
 
   Au revoir, goodbye, अलविदा, tschüss, ciao, さよなら!👋

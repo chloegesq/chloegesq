@@ -5,12 +5,12 @@
 
 Here are some ideas to get you started:
 -->
-Gif/https://images.app.goo.gl/AQSCB9JfBnWxhjgx6
+Gif/https://tenor.com/vZSr.gif
 - ✧☽ ☼
 - Hi nice to meet you, I'm Chloé !
 - Student in : foreign languages.
 - Main interests : travelling, discovering new cultures, dancing, astronomy.
 - What am I doing here ? Just curiosity and a strong wish to learn;)
 
-- Au revoir, goodbye, tschüss, ciao, さよなら!👋
+- Au revoir, goodbye, अलविदा, tschüss, ciao, さよなら!👋
 

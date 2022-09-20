@@ -1,7 +1,5 @@
 ### Hi there 
 
-<!--
-**chloegesq/chloegesq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <br>
 <div id="header" align="left">
   <img src= "Gif/https://tenor.com/vZSr.gif" Width= "250"/>

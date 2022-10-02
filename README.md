@@ -13,4 +13,6 @@
 
 
   Au revoir, goodbye, अलविदा, tschüss, ciao, さよなら!👋
+ 
+ <img src= "https://media.giphy.com/media/C3gZCY92Cwyxq/giphy.gif" Width= "250"/>
 

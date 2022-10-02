@@ -3,8 +3,7 @@
 <br>
 <div id="header" align="left">
   <img src= "https://media.giphy.com/media/Uz4cDaGXPxeuY/giphy.gif" Width= "250"/>
-<div/>
-<br>
+<div/> <br>
 Nice to meet you, I'm Chloé !
 <br>
 Student in : foreign languages.

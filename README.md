@@ -1,7 +1,4 @@
 ### Hi there, nice to meet you! 
- ✧☽ ☼
-<br>
-<br>
 I'm Chloé, 
 <br>
 MA's student in language sciences (majoring linguistics and languages diversity)
@@ -11,6 +8,8 @@ I'm interested in endangered languages documentation & revitalisation projects
 Other hobbies : travelling, dancing, stargazing.
 <br>
 <br>
- 
+  ✧☽ ☼
+ <br>
+<br>
 <img src= "https://media.giphy.com/media/C3gZCY92Cwyxq/giphy.gif" Width= "250"/>
 

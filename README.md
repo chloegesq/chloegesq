@@ -1,7 +1,11 @@
 ### Hi there, nice to meet you! 
  ✧☽ ☼
 <br>
-MA's student in linguistics, interested in endangered languages documentation & revitalisation projects
+I'm Chloé, 
+<br>
+MA's student in linguistics, 
+interested in endangered languages documentation 
+& revitalisation projects
 <br>
 Other hobbies : travelling, dancing, stargazing.
 <br>

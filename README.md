@@ -4,11 +4,9 @@
 <br>
 I'm Chloé, 
 <br>
-MA's student in linguistics, 
+MA's student in language sciences (majoring linguistics and in languages diversity)
 <br>
-interested in endangered languages documentation 
-<br>
-& revitalisation projects
+I'm interested in endangered languages documentation & revitalisation projects
 <br>
 Other hobbies : travelling, dancing, stargazing.
 <br>

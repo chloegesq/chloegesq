@@ -4,7 +4,7 @@
 <br>
 I'm Chloé, 
 <br>
-MA's student in language sciences (majoring linguistics and in languages diversity)
+MA's student in language sciences (majoring linguistics and languages diversity)
 <br>
 I'm interested in endangered languages documentation & revitalisation projects
 <br>
